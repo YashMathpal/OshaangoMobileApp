@@ -1,0 +1,42 @@
+{
+  "project_info": {
+    "project_number": "565616274523",
+    "firebase_url": "https://oshaangomobileapp-c8417.firebaseio.com",
+    "project_id": "oshaangomobileapp-c8417",
+    "storage_bucket": "oshaangomobileapp-c8417.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:565616274523:android:7754b155b8a4a5c8",
+        "android_client_info": {
+          "package_name": "com.example.acer.oshaangomobileapp"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "565616274523-cne3eocp6uh94asiev4ucipjlvstfj3a.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyB0OCMh0xTyt6UUZvUoi3d2QYgQDy7t4jM"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 1,
+          "other_platform_oauth_client": []
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
